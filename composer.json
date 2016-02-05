@@ -1,0 +1,22 @@
+{
+	"name": "Findus23/php-functions",
+	"type": "library",
+	"description": "useful php functions",
+	"homepage": "https://github.com/Findus23/php-functions",
+	"require": {
+		"php": ">=5.6"
+	},
+	"license": "MIT",
+	"authors": [{
+		"name": "Lukas Winkler",
+		"email": "l.winkler23@me.com"
+	}],
+	"require-dev": {
+		"squizlabs/php_codesniffer": "2.*",
+		"phpdocumentor/phpdocumentor": "2.*",
+		"phpunit/phpunit": "5.0.*",
+	},
+	"autoload": {
+		"files": ["functions.php"]
+	}
+}

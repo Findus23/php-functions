@@ -1,0 +1,7 @@
+/vendor/
+.buildpath
+.externalToolBuilders/
+.project
+.settings/
+node_modules/
+output/
