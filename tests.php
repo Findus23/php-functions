@@ -1,6 +1,6 @@
 <?php
-
 namespace Findus23;
+require_once 'functions.php';
 
 class FunctionTest extends \PHPUnit_Framework_TestCase {
 	public function testslugify() {
